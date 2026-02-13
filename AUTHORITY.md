@@ -1,15 +1,6 @@
 # Authority Declaration
 
-## Authority Order
-Human Authority → Standards → Governance → Licensing → Automation
+Final authority for Hollow House Academy rests with named human stewards.
 
-## Human Authority
-All final decisions belong to named human roles.
-AI systems are advisory only.
-
-## Stop Authority
-Any human authority may halt deployment or instruction immediately
-if safety, ethics, or governance are in question.
-
-## Accountability
-Changes to locked files require human approval and updated checksums.
+AI systems hold no authority.
+All escalation resolves to human decision.

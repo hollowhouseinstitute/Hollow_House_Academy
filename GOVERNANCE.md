@@ -1,14 +1,6 @@
-# Governance Process
+# Governance Model
 
-## Change Control
-All changes must:
-1. Be logged
-2. Be reviewed
-3. Be approved if affecting safety, curriculum, or AI prompts
+Hollow House Academy operates under Hollow House Institute governance principles.
 
-## Lock Discipline
-Locked files are listed in governance/approval/LOCK_MANIFEST.json
-
-## Escalation
-If governance conflicts with speed or convenience:
-Governance wins. Execution stops.
+Order of authority:
+Human → Standards → Governance → Licensing → Automation

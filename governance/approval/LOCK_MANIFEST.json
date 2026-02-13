@@ -4,7 +4,9 @@
     "README.md",
     "AUTHORITY.md",
     "SAFETY.md",
-    "GOVERNANCE.md"
+    "GOVERNANCE.md",
+    "LICENSE.md",
+    "curriculum/prompts/ai_guidance_prompt.md"
   ],
   "approval_required": true
 }
