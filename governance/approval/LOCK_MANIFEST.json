@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "locked_files": [
+    "README.md",
+    "AUTHORITY.md",
+    "SAFETY.md",
+    "GOVERNANCE.md"
+  ],
+  "approval_required": true
+}
