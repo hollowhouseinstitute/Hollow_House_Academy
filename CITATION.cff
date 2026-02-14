@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite it as below."
+type: report
+title: "Hollow House Academy: Governance-First Educational Framework"
+version: "1.0.0"
+authors:
+  - family-names: "Pierce Adams"
+    given-names: "Amy"
+publisher: "Hollow House Institute"
+year: 2026
+doi: "10.5281/zenodo.XXXXXXX"
+url: "https://github.com/hollowhouseinstitute/Hollow_House_Academy"
+license: "CC-BY-NC-ND-4.0"
