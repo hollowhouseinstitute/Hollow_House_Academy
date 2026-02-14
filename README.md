@@ -1,8 +1,13 @@
 # Hollow House Academy (HHA)
 
-A governance-first educational framework designed to support children, families, and organizations
-through safe, ethical, human-led learning.
+Hollow House Academy is a governance-first educational framework designed to support children, families, organizations, and communities through ethical, joyful, and developmentally respectful learning.
 
-AI is advisory only.
-Human authority is non-bypassable.
-Drift is observable, not hidden.
+This repository is structured to ensure:
+- Human authority is explicit
+- AI is governed, constrained, and transparent
+- Educational drift is visible and auditable
+- Learning is fractal, not linear
+- Safety and dignity are non-negotiable
+
+This is not a content dump.
+This is an operating system for education.
