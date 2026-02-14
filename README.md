@@ -1,12 +1,13 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/10.5281/zenodo.18637620)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18637975.svg)](https://doi.org/10.5281/zenodo.18637975)
+## Citation & DOI
 
+This repository is archived and versioned via Zenodo.
 
-## 📖 Citation
+**Canonical GitHub DOI:**  
+https://doi.org/10.5281/zenodo.18637975
 
-Pierce Adams, A. (2026). *Hollow House Academy: Governance-First Educational Framework v1.0.0*. Hollow House Institute.  
-DOI: https://doi.org/10.5281/zenodo.18637620
-# Hollow House Academy (HHA)
-
+📄 **Governance Framework PDF**  
+The standalone governance framework is published separately on Zenodo and has its own DOI.
 Hollow House Academy is a governance-first educational framework designed to support children, families, organizations, and communities through ethical, joyful, and developmentally respectful learning.
 
 This repository is structured to ensure:
