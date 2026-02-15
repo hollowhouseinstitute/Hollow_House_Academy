@@ -19,3 +19,10 @@ This repository is structured to ensure:
 
 This is not a content dump.
 This is an operating system for education.
+
+## Canonical Governance Reference
+
+This project is governed by the Hollow House Academy Governance Framework.
+
+Archived, timestamped, and citable via Zenodo:
+https://doi.org/10.5281/zenodo.18615600
