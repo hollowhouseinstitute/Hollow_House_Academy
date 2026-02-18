@@ -1,28 +1,57 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18637975.svg)](https://doi.org/10.5281/zenodo.18637975)
-## Citation & DOI
+# Hollow House Academy
 
-This repository is archived and versioned via Zenodo.
+Role: Educational material derived from Hollow House Institute standards  
+Authority Tier: Tier 4 (Education & Public Interface)  
+Depends On: Hollow_House_Standards_Library, HHI_GOV_01 (as needed)  
+Does Not Define: Canonical terminology, governance standards, licensing terms, datasets  
+Governance Status: Public Interface
 
-**Canonical GitHub DOI:**  
-https://doi.org/10.5281/zenodo.18637975
+Authority Links:
+- Hollow_House_Standards_Library (canonical definitions authority)
+- SPEC-003 Repository Governance & Authority Order (HHI-SPEC-003)
 
-📄 **Governance Framework PDF**  
-The standalone governance framework is published separately on Zenodo and has its own DOI.
-Hollow House Academy is a governance-first educational framework designed to support children, families, organizations, and communities through ethical, joyful, and developmentally respectful learning.
+---
 
-This repository is structured to ensure:
-- Human authority is explicit
-- AI is governed, constrained, and transparent
-- Educational drift is visible and auditable
-- Learning is fractal, not linear
-- Safety and dignity are non-negotiable
+## Purpose
 
-This is not a content dump.
-This is an operating system for education.
+Hollow House Academy provides educational materials derived from Hollow House
+Institute standards and governance frameworks.
 
-## Canonical Governance Reference
+Its role is instructional and explanatory.
 
-This project is governed by the Hollow House Academy Governance Framework.
+---
 
-Archived, timestamped, and citable via Zenodo:
-https://doi.org/10.5281/zenodo.18615600
+## Scope
+
+This repository may include:
+- learning materials and curricula
+- examples derived from governance standards
+- explanatory guides and tutorials
+
+This repository does not:
+- define canonical terminology
+- establish governance standards or controls
+- issue audit findings or conclusions
+- provide licensing terms or compliance determinations
+
+---
+
+## Authority Boundaries
+
+All educational content must defer to upstream standards.
+
+If terminology appears ambiguous or undefined, readers must be directed to the
+Hollow_House_Standards_Library.
+
+No authority is claimed beyond education and demonstration.
+
+---
+
+## Status
+
+Tier 4 educational repository.  
+Public-facing and non-authoritative.
+
+---
+
+End of file.
